@@ -4,10 +4,10 @@
 
 #include <ESP8266WiFi.h>
 #include <FirebaseArduino.h>
-#define FIREBASE_HOST "esp8266-solar-default-rtdb.firebaseio.com"
-#define FIREBASE_AUTH "qLwruiIyMoIFd4qh5pa0w7BNFR3Ikl0mo2ygtGnz"
-#define WIFI_SSID "KENANBiCER"
-#define WIFI_PASSWORD "7F8F77372552b"
+#define FIREBASE_HOST " "
+#define FIREBASE_AUTH " "
+#define WIFI_SSID " "
+#define WIFI_PASSWORD " "
 unsigned long int gecen_zaman;
 unsigned long int ayarlanan_zaman;
 unsigned long int yeni_milis;
